@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/epaproditus/mastodon_blocklist/main/emergency_list.txt
+||behance.net^
