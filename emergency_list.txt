@@ -1,1 +1,3 @@
 ||search.brave.com^
+||*.brave.com^
+||.brave.com^
