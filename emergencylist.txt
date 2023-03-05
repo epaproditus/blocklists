@@ -2,3 +2,5 @@
 ||*.brave.com^
 ||.brave.com^
 /brave/
+||brave.com^
+||hulu.com^
